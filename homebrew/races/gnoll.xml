@@ -75,10 +75,10 @@
 	</element>
 	<element name="Ripping Jaws" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_RIPPING_JAWS">
 		<description>
-			<p>You can choose to bite as an attack which causes the attack to inflict 1d4 piercing damage.</p>
+			<p>You can choose to bite as an attack which causes the attack to inflict 1d4 + your Strength modifier piercing damage.</p>
 		</description>
 		<sheet>
-			<description>You can choose to bite as an attack which causes the attack to inflict 1d4 piercing damage.</description>
+			<description>You can choose to bite as an attack which causes the attack to inflict 1d4+{{strength:modifier}} piercing damage.</description>
 		</sheet>
 	</element>
 	<element name="Rampage" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_RAMPAGE">
