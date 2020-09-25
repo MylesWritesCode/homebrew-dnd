@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Homebrew Races</name>
+		<description>Homebrew races</description>
+		<update version="0.0.1">
+			<file name="races.index" url="" />
+		</update>
+	</info>
+	<files>
+		<file name="gnoll.xml" url="" />
+	</files>
+</index>
