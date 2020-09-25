@@ -63,15 +63,14 @@
 	</element>	
 	<element name="Filth Eater's Gullet" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_FILTH_EATERS_GULLET">
 		<description>
-			<p>You gain resistance to poison and disease.</p>
+			<p>You gain resistance to poison and advantage on Constitution checks to disease.</p>
 		</description>
 		<sheet display="false">
-			<description>You gain resistance to poison and disease.</description>
+			<description>You gain resistance to poison and advantage on Constitution checks to disease.</description>
 		</sheet>
 		<rules>
 			<!-- <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INTIMIDATION" /> -->
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
-			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_DISEASE" />
 		</rules>
 	</element>
 	<element name="Ripping Jaws" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_RIPPING_JAWS">
