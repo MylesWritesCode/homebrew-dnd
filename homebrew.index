@@ -3,10 +3,10 @@
 	<info>
 		<name>Homebrew (Kaena)</name>
 		<update version="1.0.0">
-			<file name="races.index" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index" />
+			<file name="homebrew.index" url="https://raw.githubusercontent.com/MylesWritesCode/homebrew-dnd/master/homebrew.index" />
 		</update>
 	</info>
 	<files>
-		
+		<file name="races.index" url="https://raw.githubusercontent.com/MylesWritesCode/homebrew-dnd/master/homebrew/races.index" />
 	</files>
 </index>

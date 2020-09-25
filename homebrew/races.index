@@ -4,10 +4,10 @@
 		<name>Homebrew Races</name>
 		<description>Homebrew races</description>
 		<update version="0.0.1">
-			<file name="races.index" url="" />
+			<file name="races.index" url="https://raw.githubusercontent.com/MylesWritesCode/homebrew-dnd/master/homebrew/races.index" />
 		</update>
 	</info>
 	<files>
-		<file name="gnoll.xml" url="" />
+		<file name="gnoll.xml" url="https://raw.githubusercontent.com/MylesWritesCode/homebrew-dnd/master/homebrew/races/gnoll.xml" />
 	</files>
 </index>

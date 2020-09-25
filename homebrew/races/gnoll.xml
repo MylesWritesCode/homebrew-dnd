@@ -3,7 +3,7 @@
 	<info>
 		<name>Gnoll</name>
 		<update version="0.2">
-			<file name="race-gnoll.xml" url="" />
+			<file name="gnoll.xml" url="https://raw.githubusercontent.com/MylesWritesCode/homebrew-dnd/master/homebrew/races/gnoll.xml" />
 		</update>
 	</info>
 	<element name="Gnoll" type="Race" source="Homebrew" id="ID_RACE_GNOLL">
