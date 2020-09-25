@@ -65,7 +65,7 @@
 		<description>
 			<p>You gain resistance to poison and advantage on Constitution checks to disease.</p>
 		</description>
-		<sheet display="false">
+		<sheet>
 			<description>You gain resistance to poison and advantage on Constitution checks to disease.</description>
 		</sheet>
 		<rules>
